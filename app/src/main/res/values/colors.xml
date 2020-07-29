@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="navigation">#140A26</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mainPageTect">#ADADAD</color>
+    <color name="facebook">#3B5798</color>
+    <color name="header_color">#221738</color>
+    <color name="taskpage">#221738</color>
+    <color name="onSelected">#6670FF</color>
+    <color name="todo_name">#050505</color>
+    <color name="bottomNav">#EFF5F8</color>
+    <color name="signup">#5B3E96</color>
+</resources>
